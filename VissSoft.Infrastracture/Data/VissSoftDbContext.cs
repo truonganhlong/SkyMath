@@ -9,6 +9,7 @@ using System.Threading.Tasks;
 using VissSoft.Core.Entities;
 using VissSoft.Core.Helper;
 using VissSoft.Infrastracture.Configurations;
+using VissSoft.Infrastracture.Extensions;
 
 namespace VissSoft.Infrastracture.Data
 {
@@ -54,6 +55,7 @@ namespace VissSoft.Infrastracture.Data
         {
             base.OnModelCreating(modelBuilder);
             modelBuilder.ApplyConfigurationsFromAssembly(Assembly.GetExecutingAssembly());
+            modelBuilder.Seed();
         }
     }
 }
