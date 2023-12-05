@@ -17,7 +17,7 @@ namespace VissSoft.Infrastracture.Extensions
                 {
                     id = 1,
                     name = "Khai giảng khóa lớp 1",
-                    imgLink = "course-1.png",
+                    imgLink = "Images/Course/course-1.png",
                     color = "#ffb74a",
                     created_at = DateTime.Now,
                     status = true
@@ -26,7 +26,7 @@ namespace VissSoft.Infrastracture.Extensions
                 {
                     id = 2,
                     name = "Khai giảng khóa lớp 2",
-                    imgLink = "course-2.png",
+                    imgLink = "Images/Course/course-2.png",
                     color = "#00bc51",
                     created_at = DateTime.Now,
                     status = true
@@ -35,7 +35,7 @@ namespace VissSoft.Infrastracture.Extensions
                 {
                     id = 3,
                     name = "Khai giảng khóa lớp 3",
-                    imgLink = "course-1.png",
+                    imgLink = "Images/Course/course-1.png",
                     color = "#ff9679",
                     created_at = DateTime.Now,
                     status = true
@@ -44,7 +44,7 @@ namespace VissSoft.Infrastracture.Extensions
                 {
                     id = 4,
                     name = "Khai giảng khóa lớp 4",
-                    imgLink = "course-2.png",
+                    imgLink = "Images/Course/course-2.png",
                     color = "#1dc2da",
                     created_at = DateTime.Now,
                     status = true
@@ -66,7 +66,7 @@ namespace VissSoft.Infrastracture.Extensions
                 new NewAndEvent()
                 {
                     id = 1,
-                    imgLink = "news-1.png",
+                    imgLink = "Images/NewAndEvent/news-1.png",
                     title = "Mở vòng thi số 02 Violympic môn Toán bằng Tiếng Anh",
                     content = "Mọi thông tin về vòng thi sắp tới đây đều được cập nhật và thông báo tại đây",
                     created_at = DateTime.Now,
@@ -75,7 +75,7 @@ namespace VissSoft.Infrastracture.Extensions
                 new NewAndEvent()
                 {
                     id = 2,
-                    imgLink = "news-2.png",
+                    imgLink = "Images/NewAndEvent/news-2.png",
                     title = "Mở vòng thi số 02 Violympic môn Toán bằng Tiếng Anh",
                     content = "Mọi thông tin về vòng thi sắp tới đây đều được cập nhật và thông báo tại đây",
                     created_at = DateTime.Now,
@@ -84,7 +84,7 @@ namespace VissSoft.Infrastracture.Extensions
                 new NewAndEvent()
                 {
                     id = 3,  
-                    imgLink = "news-3.png",
+                    imgLink = "Images/NewAndEvent/news-3.png",
                     title = "Mở vòng thi số 02 Violympic môn Toán bằng Tiếng Anh",
                     content = "Mọi thông tin về vòng thi sắp tới đây đều được cập nhật và thông báo tại đây",
                     created_at = DateTime.Now,
@@ -93,7 +93,7 @@ namespace VissSoft.Infrastracture.Extensions
                 new NewAndEvent()
                 {
                     id = 4,
-                    imgLink = "news-4.png",
+                    imgLink = "Images/NewAndEvent/news-4.png",
                     title = "Mở vòng thi số 02 Violympic môn Toán bằng Tiếng Anh",
                     content = "Mọi thông tin về vòng thi sắp tới đây đều được cập nhật và thông báo tại đây",
                     created_at = DateTime.Now,
@@ -105,7 +105,7 @@ namespace VissSoft.Infrastracture.Extensions
                 new Slide()
                 {
                     id = 1,
-                    imgLink = "heroes-1.png",
+                    imgLink = "Images/Slide/heroes-1.png",
                     slogan = "Cùng SkyMath bứt phá Điểm 10 không khó",
                     created_at = DateTime.Now,
                     status = true
@@ -113,7 +113,7 @@ namespace VissSoft.Infrastracture.Extensions
                 new Slide()
                 {
                     id = 2,
-                    imgLink = "heroes-2.png",
+                    imgLink = "Images/Slide/heroes-2.png",
                     slogan = "Cùng SkyMath bứt phá Điểm 10 không khó",
                     created_at = DateTime.Now,
                     status = true
@@ -121,7 +121,7 @@ namespace VissSoft.Infrastracture.Extensions
                 new Slide()
                 {
                     id = 3,
-                    imgLink = "heroes-3.png",
+                    imgLink = "Images/Slide/heroes-3.png",
                     slogan = "Cùng SkyMath bứt phá Điểm 10 không khó",
                     created_at = DateTime.Now,
                     status = true
@@ -132,7 +132,7 @@ namespace VissSoft.Infrastracture.Extensions
                 {
                     id = 1,
                     name = "Thầy Nguyễn Duy Minh",
-                    avatar = "teacher-1.png",
+                    avatar = "Images/Teacher/teacher-1.png",
                     description = "Với kinh nghiệm nhiều năm trong nghề, thầy đã không chỉ giup các em học sinh trở nên yêu thích môn Toán, mà còn đạt giải cao trong các cuộc thi lớn...",
                     created_at = DateTime.Now,
                     status = true
@@ -141,7 +141,7 @@ namespace VissSoft.Infrastracture.Extensions
                 {
                     id = 2,
                     name = "Cô Hoàng Thị Cẩm Tú",
-                    avatar = "teacher-2.png",
+                    avatar = "Images/Teacher/teacher-2.png",
                     description = "Với kinh nghiệm nhiều năm trong nghề, thầy đã không chỉ giup các em học sinh trở nên yêu thích môn Toán, mà còn đạt giải cao trong các cuộc thi lớn...",
                     created_at = DateTime.Now,
                     status = true
@@ -150,7 +150,7 @@ namespace VissSoft.Infrastracture.Extensions
                 {
                     id = 3,
                     name = "Cô Lương Thùy Linh",
-                    avatar = "teacher-3.png",
+                    avatar = "Images/Teacher/teacher-3.png",
                     description = "Với kinh nghiệm nhiều năm trong nghề, thầy đã không chỉ giup các em học sinh trở nên yêu thích môn Toán, mà còn đạt giải cao trong các cuộc thi lớn...",
                     created_at = DateTime.Now,
                     status = true
@@ -159,7 +159,7 @@ namespace VissSoft.Infrastracture.Extensions
                 {
                     id = 4,
                     name = "Cô Trần Mai Phương",
-                    avatar = "teacher-4.png",
+                    avatar = "Images/Teacher/teacher-4.png",
                     description = "Với kinh nghiệm nhiều năm trong nghề, thầy đã không chỉ giup các em học sinh trở nên yêu thích môn Toán, mà còn đạt giải cao trong các cuộc thi lớn...",
                     created_at = DateTime.Now,  
                     status = true

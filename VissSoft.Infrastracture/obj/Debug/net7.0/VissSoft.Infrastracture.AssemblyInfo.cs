@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VissSoft.Infrastracture")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1f768d473bae0961f3ee5afd69a3bb8633a54c28")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8237b4011b0dcad65c9580c5478f71492932b9d1")]
 [assembly: System.Reflection.AssemblyProductAttribute("VissSoft.Infrastracture")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VissSoft.Infrastracture")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

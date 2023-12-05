@@ -2,6 +2,7 @@
 using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using VissSoft.Infrastracture.Data;
 
@@ -10,9 +11,11 @@ using VissSoft.Infrastracture.Data;
 namespace VissSoft.Infrastracture.Migrations
 {
     [DbContext(typeof(VissSoftDbContext))]
-    partial class VissSoftDbContextModelSnapshot : ModelSnapshot
+    [Migration("20231205094638_UpdateSeedData")]
+    partial class UpdateSeedData
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
