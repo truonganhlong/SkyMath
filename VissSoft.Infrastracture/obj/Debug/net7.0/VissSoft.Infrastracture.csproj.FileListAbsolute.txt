@@ -15,3 +15,4 @@ H:\Work\skyMath\VissSoft\VissSoft.Infrastracture\obj\Debug\net7.0\refint\VissSof
 H:\Work\skyMath\VissSoft\VissSoft.Infrastracture\obj\Debug\net7.0\VissSoft.Infrastracture.pdb
 H:\Work\skyMath\VissSoft\VissSoft.Infrastracture\obj\Debug\net7.0\VissSoft.Infrastracture.genruntimeconfig.cache
 H:\Work\skyMath\VissSoft\VissSoft.Infrastracture\obj\Debug\net7.0\ref\VissSoft.Infrastracture.dll
+H:\Work\skyMath\VissSoft\VissSoft.Infrastracture\obj\Debug\net7.0\VissSoft.Infrastracture.sourcelink.json

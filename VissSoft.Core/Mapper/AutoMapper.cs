@@ -4,11 +4,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using VissSoft.Core.DTOs.Responses.Course;
-using VissSoft.Core.DTOs.Responses.Intro;
-using VissSoft.Core.DTOs.Responses.NewAndEvent;
-using VissSoft.Core.DTOs.Responses.Slide;
-using VissSoft.Core.DTOs.Responses.Teacher;
+using VissSoft.Core.DTOs.Course;
+using VissSoft.Core.DTOs.Intro;
+using VissSoft.Core.DTOs.NewAndEvent;
+using VissSoft.Core.DTOs.Slide;
+using VissSoft.Core.DTOs.Teacher;
 using VissSoft.Core.Entities;
 
 namespace VissSoft.Core.Mapper

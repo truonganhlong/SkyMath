@@ -42,6 +42,7 @@ namespace VissSoft.Infrastracture.Data
                         {
                             addedEntity.created_at = DateTime.Now;
                             addedEntity.updated_at = DateTime.Now;
+                            addedEntity.status = true;
                         }
                         break;
                 }

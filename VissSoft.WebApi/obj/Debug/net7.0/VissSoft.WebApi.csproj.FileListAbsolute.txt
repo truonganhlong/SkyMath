@@ -50,3 +50,4 @@ H:\Work\skyMath\VissSoft\VissSoft.WebApi\bin\Debug\net7.0\VissSoft.Infrastractur
 H:\Work\skyMath\VissSoft\VissSoft.WebApi\bin\Debug\net7.0\AutoMapper.dll
 H:\Work\skyMath\VissSoft\VissSoft.WebApi\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 H:\Work\skyMath\VissSoft\VissSoft.WebApi\bin\Debug\net7.0\CoreApiResponse.dll
+H:\Work\skyMath\VissSoft\VissSoft.WebApi\obj\Debug\net7.0\VissSoft.WebApi.sourcelink.json

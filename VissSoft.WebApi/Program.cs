@@ -1,5 +1,7 @@
 using Microsoft.EntityFrameworkCore;
+using VissSoft.Application.Services;
 using VissSoft.Core.Interfaces.IRepositories;
+using VissSoft.Core.Interfaces.IServices;
 using VissSoft.Infrastracture.Data;
 using VissSoft.Infrastracture.Repositories;
 
@@ -13,7 +15,11 @@ builder.Services.AddDbContext<VissSoftDbContext>(options =>
     ServerVersion.AutoDetect(connectionString)));
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
-builder.Services.AddScoped<ICourseRepository, CourseRepository>();
+//Repository Dependency Injection
+builder.Services.AddScoped<IHomeRepository, HomeRepository>();
+//Service Dependency Injection
+builder.Services.AddScoped<IHomeService, HomeService>();
+//DbContext Dependency Injection
 builder.Services.AddScoped<VissSoftDbContext, VissSoftDbContext>();
 builder.Services.AddSwaggerGen();
 builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());

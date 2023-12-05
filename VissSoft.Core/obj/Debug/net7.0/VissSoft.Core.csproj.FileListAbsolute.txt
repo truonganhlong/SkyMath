@@ -10,3 +10,4 @@ H:\Work\skyMath\VissSoft\VissSoft.Core\obj\Debug\net7.0\refint\VissSoft.Core.dll
 H:\Work\skyMath\VissSoft\VissSoft.Core\obj\Debug\net7.0\VissSoft.Core.pdb
 H:\Work\skyMath\VissSoft\VissSoft.Core\obj\Debug\net7.0\ref\VissSoft.Core.dll
 H:\Work\skyMath\VissSoft\VissSoft.Core\obj\Debug\net7.0\VissSoft.Core.csproj.AssemblyReference.cache
+H:\Work\skyMath\VissSoft\VissSoft.Core\obj\Debug\net7.0\VissSoft.Core.sourcelink.json
